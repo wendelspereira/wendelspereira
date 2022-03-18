@@ -1,5 +1,4 @@
 <div align="center">
-  <a href="https://www.instagram.com/wendelspereira">
   <img height="175em" src="https://github-readme-stats.vercel.app/api?username=wendelspereira&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
   <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wendelspereira&layout=compact&langs_count=7&theme=default"/>
 </div>
@@ -23,6 +22,6 @@
 </div><br><br>  
  <div> 
   <a href="https://www.linkedin.com/in/wendelspereira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:wendelspereira@outlook.com"><img src="https://img.shields.io/badge/-Outlook-%23333?style=for-the-badge&logo=outlook&logoColor=white" target="_blank"></a>
+  <a href = "mailto:wendelspereira@outlook.com"><img src="https://img.shields.io/badge/-Outlook-%23333?style=for-the-badge&logo=outlook&logoColor=white" target="_blank"/></a>
   
 </div>
