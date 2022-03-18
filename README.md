@@ -1,4 +1,8 @@
 <div align="center">
+<<<<<<< HEAD
+=======
+  <a href="https://www.instagram.com/wendelspereira/">
+>>>>>>> 884572d4972f180138742a1374f418f6117f2b42
   <img height="175em" src="https://github-readme-stats.vercel.app/api?username=wendelspereira&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
   <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wendelspereira&layout=compact&langs_count=7&theme=default"/>
 </div>
